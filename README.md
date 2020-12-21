@@ -1,6 +1,6 @@
 # PseudoPhaser
 
-Is it worth throwing some 30 dollars for getting only a straightforward filter?
+Is it worth throwing some 60 dollars for getting only a straightforward filter?
 
 ![Screenshot](https://yokkin.com/wp-content/uploads/2020/12/20201221003726.png)
 
