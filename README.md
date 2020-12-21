@@ -8,14 +8,3 @@ Is it worth throwing some 30 dollars for getting only a straightforward filter?
 
 [https://github.com/froggie3/PseudoPhaser/wiki](https://github.com/froggie3/PseudoPhaser/wiki)
 
-
-## バイナリ配布について (Japanese)
-
-こちらの環境上の都合によりVSTのバイナリ版しか用意できませんが、このプラグインはCabbageで書かれているので自分でソースファイルをダウンロードしてビルドすれば簡単にmacOSでもLinuxでも動くと思います。
-
-
-## About binary release (English)
-
-Only Windows VST is available because of a technical problem. However, this project is written in Cabbage,
-
-so you can download .csd file and build by yourself with ease.
