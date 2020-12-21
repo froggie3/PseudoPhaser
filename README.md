@@ -4,6 +4,17 @@ Is it worth throwing some 30 dollars for getting only a straightforward filter?
 
 ![Screenshot](https://yokkin.com/wp-content/uploads/2020/12/20201221003726.png)
 
+
+## 使う前に
+
+このプラグインが適切に動作するためには、以下のCsoundライブラリのインストールが必要となります。
+
+[https://csound.com/download.html](https://csound.com/download.html)
+
+使用しているOSがWindowsであれば、まず最初に「64bit Full Installer」をクリックしてインストーラーからインストールを行ってください。
+
+![Download the installer](https://yokkin.com/wp-content/uploads/2020/12/20201221174315.png)
+
 ## 各パラメーターの説明 (Japanese)
 
 ### Order
@@ -45,6 +56,17 @@ DAW側に出力する音量を設定します。
 スピーカーを破損させたり音圧に悪い影響を与えるDCオフセットをカットします。
 
 勾配のある Chebyshev Type I の 4-Pole の ハイパスフィルタを利用しています。20Hz 地点が固定でカットオフ地点に設定してあります。
+
+## Before you use
+
+The plugin uses Csound library the plugin to work. All you need have to do is to download and install it from this link.
+
+[https://csound.com/download.html](https://csound.com/download.html)
+
+If you have Windows and x64-PC, you are supposed to download "64bit Full Installer".
+
+![Download the installer](https://yokkin.com/wp-content/uploads/2020/12/20201221174315.png)
+
 
 ## Features for each parameters (pOoR-eNgLiSh)
 
