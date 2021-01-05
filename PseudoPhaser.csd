@@ -1,6 +1,6 @@
 <Cabbage>
 form size(880, 240), caption("PseudoPhaser"), pluginID("plu1")
-groupbox bounds(0, 0, 880, 240), imgfile("..\src\PseudoPhaserTemplate.svg"), identchannel("groupbox") colour(35, 35, 35, 0) fontcolour(160, 160, 160, 0) outlinecolour(160, 160, 160, 0) 
+groupbox bounds(0, 0, 880, 240), imgfile("svg\PseudoPhaserTemplate.svg"), identchannel("groupbox") colour(35, 35, 35, 0) fontcolour(160, 160, 160, 0) outlinecolour(160, 160, 160, 0) 
 
 // Title
 groupbox fontcolour(255, 255, 255, 255), , 255) colour(94, 94, 94, 255) corners(0) outlinecolour(0, 0, 0, 0) bounds(10, 20, 480, 53)
