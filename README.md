@@ -1,10 +1,10 @@
 # PseudoPhaser
 
-Is it worth throwing some 60 dollars for getting only a straightforward filter?
+Is it worth throwing 60 dollars for getting only a straightforward all-pass filter?
 
-![Screenshot](https://yokkin.com/wp-content/uploads/2021/01/20210106000542.png)
+![A screenshot of the plugin](https://user-images.githubusercontent.com/76399182/152466369-de4c4d0e-8119-416b-9294-5c0923ba1600.png)
 
-使い方に関しての説明, トラブルシューティングはWikiへ移動しました。動かない場合も読んでください。
+Documents and troubleshooting about this plugin are available on wiki. 
 
 [https://github.com/froggie3/PseudoPhaser/wiki](https://github.com/froggie3/PseudoPhaser/wiki)
 
